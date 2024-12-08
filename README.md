@@ -1,16 +1,13 @@
-# mostrario_flutter
+<h1 align="center">Hola 📡, Mostrario Flutter</h1>
 
-A new Flutter project.
+<img src="https://i.imgur.com/jXavKCD.jpg">
 
-## Getting Started
+Descripción: Esta aplicación es un mostrario de productos desarrollado en Flutter con las siguientes tecnologías:
 
-This project is a starting point for a Flutter application.
+Dart
 
-A few resources to get you started if this is your first Flutter project:
+Servidor local Node.js
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+MySQL para la gestión de datos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ngrok para exponer la API al mundo exterior
