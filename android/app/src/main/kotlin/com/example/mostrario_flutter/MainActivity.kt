@@ -1,0 +1,5 @@
+package com.example.mostrario_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
